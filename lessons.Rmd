@@ -14,6 +14,9 @@ output: distill::distill_article
 - [Shiny basics: interactive data display (Lyndsie)](shinyBasics.html)
   - Example App: [Loblolly](https://github.com/lsw5077/shiny_workshop/tree/main/exampleApps/Loblolly)
 - Interactive display of model results for policy (Denis)
+  - [Burkina Faso app example. Problem description (Denis)](https://ufl.zoom.us/rec/share/WhIxqo4eg1hiVd-y8rMvPEqFDGwmSMzT3KXPCvqABBv2VsNUEh7S4bV9voJQuLKA.jZoJfNji4IYqysVY)
+  - [Burkina Faso app example. Code description (Denis)](https://ufl.zoom.us/rec/share/A39I_xbI_uGHyDijBWsG010aHpBimEKtU9UE2h6HSRAnNvbe6ETDhLR3HHXOmW7H.Mkgz73xSHY8yQPjo)
+
 - Bonus! Menu of cool shiny functions (Chad)
 - Project session 1: Experimenting with Shiny 
 
@@ -22,13 +25,11 @@ output: distill::distill_article
 - February 9, 2021 in the shiny workshop
 - Intro to Structured Decision Making (Lyndsie)
 - [From Models to Policy (Denis)](https://ufl.zoom.us/rec/share/JOIRsqyBhfFCNvU4lZAgtQyCQ-UKfCVwRmoSuKDNEvanqhyR-JV-3xzX0N1a9bG-.PaV43MI0ewIKhNWa) 
-- [Burkina Faso app example (Denis)](https://ufl.zoom.us/rec/share/oTGeh_7U5TFaAV65loRVpOr3Wftyd2c7mBXRLV9EfYspxRlLDK8msxmuLQBv9Bzv.18bnL5fukANOgehe)
-- [Malaria example (Denis)](https://ufl.zoom.us/rec/share/A39I_xbI_uGHyDijBWsG010aHpBimEKtU9UE2h6HSRAnNvbe6ETDhLR3HHXOmW7H.Mkgz73xSHY8yQPjo)
 
 # Enabling value-based parameters
 
 - February 16, 2021 in the shiny workshop
-- [Road routing and medical facility optimization (Denis)](https://ufl.zoom.us/rec/share/JOIRsqyBhfFCNvU4lZAgtQyCQ-UKfCVwRmoSuKDNEvanqhyR-JV-3xzX0N1a9bG-.PaV43MI0ewIKhNWa)
+- [Road routing and medical facility optimization (Denis)]()
 - Pheasant management app and collaborative tool development (Lyndsie)
 
 # The importance of user experience

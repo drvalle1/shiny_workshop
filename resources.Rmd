@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Other example apps in Ecology, Conservation, and Epidemiology 
 
+- [Recovery Prioritization Explorer](https://shiny.sesync.org/apps/RecoveryExplorer/)
+- [Infectious disease emergence and economics of altered landscapes](http://ideeal.eha.io/)
 
 # Other Shiny and R programming Resources
 
@@ -20,5 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Stats and modeling resources
 
+- [Ben Bolker's statistical modeling book](https://ms.mcmaster.ca/~bolker/emdbook/index.html)
+- [SESYNC Bayesian course](https://cchecastaldo.github.io/BayesianShortCourse/index.html)
 
 
